@@ -1,5 +1,5 @@
 def add(a,b):
     return a+b
 
-# def hello():
-    # return "Hello,Duniya from Python!"
+def hello():
+    return "Hello,Duniya from Python!"
