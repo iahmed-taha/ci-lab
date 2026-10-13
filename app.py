@@ -2,4 +2,4 @@ def add(a,b):
     return a+b
 
 def hello():
-    return "Hello,Duniya!"
+    return "Hello,Duniya from Python!"
